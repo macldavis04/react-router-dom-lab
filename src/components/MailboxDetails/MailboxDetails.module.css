@@ -1,0 +1,11 @@
+.card {
+  max-width: 360px;
+  padding: 20px;
+  background-color: #ffffff;
+  border: 1px solid #cccccc;
+  border-radius: 8px;
+}
+
+.card p {
+  margin: 8px 0;
+}
